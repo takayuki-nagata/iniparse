@@ -1,3 +1,7 @@
+"""
+Grammar is based on https://metacpan.org/pod/Config::INI
+"""
+
 import sys
 import ply.yacc as yacc
 import json
